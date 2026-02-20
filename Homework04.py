@@ -117,5 +117,5 @@ print("\nIndependent T-Test")
 print("t-statistic:", independent_test.statistic)
 print("p-value:", independent_test.pvalue)
 
-
-
+#How fit line average 3 point accuracy differed from actual 3 point accuracy: The average integral was .01% larger than the actual mean. Meaning, it was a little bit over estimated, but it was not a dramatic amount
+#How the relation t-test compare to the regular t-test: both t statistics were below zero, meaning the sample mean was lower than the population mean. both p values are zero, so we can assume the results are significant
